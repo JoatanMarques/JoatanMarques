@@ -9,7 +9,7 @@ I'm a computer science student at the Federal University of São Carlos - Soroca
 
 I'm one of the managers of the hackerspace [HackoonSpace](https://www.hackoonspace.com)
 
-### There's some of my favorite tecnologies 
+### Languages and Tools 
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -23,11 +23,12 @@ I'm one of the managers of the hackerspace [HackoonSpace](https://www.hackoonspa
 * *Mobile development*
 * *Api Rest*
 * *Bots and Artificial Intelligence*
-
+ 
+##
 <div align="center">
-  <a href="https://github.com/JoatanMarques">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoatanMarques&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joatanmarques&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joatanmarques&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joatanmarques&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 
