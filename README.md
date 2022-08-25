@@ -3,13 +3,13 @@
   <p><i>"The weft and weave of fate guide"</i></p>
 </h1>
 
-## Hi there! My name is Joatan 👋
+### Hi there! My name is Joatan 👋
 
 I'm a computer science student at the Federal University of São Carlos - Sorocaba Campus.
 
 I'm one of the managers of the hackerspace [HackoonSpace](https://www.hackoonspace.com)
 
-### Languages and Tools 
+### 🛠️ Languages and Tools 
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -19,7 +19,7 @@ I'm one of the managers of the hackerspace [HackoonSpace](https://www.hackoonspa
   <img align="center" alt="git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
-### At the moment the tecnologies i'm interested in learning are:
+### 🤔 At the moment the tecnologies i'm interested in learning are:
 * *Mobile development*
 * *Api Rest*
 * *Bots and Artificial Intelligence*
