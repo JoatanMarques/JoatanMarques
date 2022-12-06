@@ -17,12 +17,17 @@ I'm one of the managers of the hackerspace [HackoonSpace](https://www.hackoonspa
   <img align="center" alt="pgsql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" alt="python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  <img align="center" alt="js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  
 </div>
 
 ### 🤔 At the moment the tecnologies i'm interested in learning are:
-* *Mobile development*
+* *WEB development*
 * *Api Rest*
 * *Bots and Artificial Intelligence*
+* *Mobile development*
  
 ##
 <div align="center">
